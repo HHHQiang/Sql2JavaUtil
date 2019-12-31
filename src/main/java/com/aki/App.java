@@ -14,6 +14,7 @@ public class App {
         String sqlFile = "C:\\Users\\170725e\\Desktop\\sql.txt";
         sql2Java(sqlFile, javaFile);
         // 第一次注释
+        // 第二次注释
     }
 
 
