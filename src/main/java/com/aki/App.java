@@ -15,6 +15,8 @@ public class App {
         sql2Java(sqlFile, javaFile);
         // 第一次注释
         // 第二次注释
+        // 第三次 测试rebase1
+        // disici
     }
 
 
