@@ -13,6 +13,7 @@ public class App {
         String javaFile = "C:\\Users\\170725e\\Desktop\\java.txt";
         String sqlFile = "C:\\Users\\170725e\\Desktop\\sql.txt";
         sql2Java(sqlFile, javaFile);
+        // 第一次注释
     }
 
 
